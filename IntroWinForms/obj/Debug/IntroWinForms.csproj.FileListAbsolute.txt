@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\bin\Debug\IntroWinForms.exe.config
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\bin\Debug\IntroWinForms.exe
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\bin\Debug\IntroWinForms.pdb
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.csproj.GenerateResource.cache
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.exe
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.pdb
+C:\Users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.MainForm.resources
+C:\Users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.csprojResolveAssemblyReference.cache
