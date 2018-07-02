@@ -57,7 +57,7 @@
     <Compile Include="ImageConverter\NonLinearConverter.cs" />
     <Compile Include="Image\IMyImage.cs" />
     <Compile Include="Image\MyImage.cs" />
-    <Compile Include="ListBocItem.cs" />
+    <Compile Include="ListBoxItem.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
